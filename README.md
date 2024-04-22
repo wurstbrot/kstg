@@ -1,7 +1,10 @@
-# OWASP KSTG
+# OWASP KSTG 
 OWASP Kubernetes Security Testing Guide
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## STATUS DEPRECATED
+The KSTG is not finished and it is currently not planned to do so.
 
 ## Our Vision
 
